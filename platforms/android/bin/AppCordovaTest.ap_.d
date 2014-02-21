@@ -1,0 +1,24 @@
+/home/alejandro/proyectos/AppCordova/platforms/android/bin/AppCordovaTest.ap_ \
+ : /home/alejandro/proyectos/AppCordova/platforms/android/res/drawable-xhdpi/icon.png \
+/home/alejandro/proyectos/AppCordova/platforms/android/res/values/strings.xml \
+/home/alejandro/proyectos/AppCordova/platforms/android/res/drawable/icon.png \
+/home/alejandro/proyectos/AppCordova/platforms/android/res/drawable-mdpi/icon.png \
+/home/alejandro/proyectos/AppCordova/platforms/android/res/drawable-hdpi/icon.png \
+/home/alejandro/proyectos/AppCordova/platforms/android/res/drawable-ldpi/icon.png \
+/home/alejandro/proyectos/AppCordova/platforms/android/res/xml/config.xml \
+/home/alejandro/proyectos/AppCordova/platforms/android/bin/res/drawable-xhdpi/icon.png \
+/home/alejandro/proyectos/AppCordova/platforms/android/bin/res/drawable/icon.png \
+/home/alejandro/proyectos/AppCordova/platforms/android/bin/res/drawable-mdpi/icon.png \
+/home/alejandro/proyectos/AppCordova/platforms/android/bin/res/drawable-hdpi/icon.png \
+/home/alejandro/proyectos/AppCordova/platforms/android/bin/res/drawable-ldpi/icon.png \
+/home/alejandro/proyectos/AppCordova/platforms/android/assets/www \
+/home/alejandro/proyectos/AppCordova/platforms/android/assets/www/cordova.js \
+/home/alejandro/proyectos/AppCordova/platforms/android/assets/www/cordova_plugins.js \
+/home/alejandro/proyectos/AppCordova/platforms/android/assets/www/index.html \
+/home/alejandro/proyectos/AppCordova/platforms/android/assets/www/css \
+/home/alejandro/proyectos/AppCordova/platforms/android/assets/www/js \
+/home/alejandro/proyectos/AppCordova/platforms/android/assets/www/img \
+/home/alejandro/proyectos/AppCordova/platforms/android/assets/www/css/index.css \
+/home/alejandro/proyectos/AppCordova/platforms/android/assets/www/js/index.js \
+/home/alejandro/proyectos/AppCordova/platforms/android/assets/www/img/logo.png \
+/home/alejandro/proyectos/AppCordova/platforms/android/bin/AndroidManifest.xml \
